@@ -1,6 +1,6 @@
 # python-boilerplate-script
 
-A boilerplate to create a Python script based project. [Clone](https://help.github.com/articles/cloning-a-repository/   ) or [download](https://github.com/fernandojunior/python-boilerplate-script/archive/master.zip).
+A boilerplate to create a Python script based project. [Clone](https://help.github.com/articles/cloning-a-repository/   ) or [download](https://github.com/fernandojunior/python-boilerplate-script/archive/master.zip). See others [here](https://github.com/fernandojunior/python-boilerplate).
 
 ## Table of Contents
 
