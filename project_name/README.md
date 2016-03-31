@@ -17,7 +17,7 @@ The awesome project_name project.
 
 ## Usage
 
-  ```python
+  ```sh
   $ script_name Hello World
   Hello World
   ```
