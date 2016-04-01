@@ -1,4 +1,5 @@
 # python-boilerplate-script
+[![building](https://img.shields.io/travis/fernandojunior/python-boilerplate-script.svg)](https://travis-ci.org/fernandojunior/python-boilerplate-script)
 
 Boilerplate to create a Python script based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
