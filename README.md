@@ -3,6 +3,11 @@
 
 Boilerplate to create a Python script based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
+  ```sh
+  $ script_name Hello World
+  Hello World
+  ```
+
 ## Features
 
 * [coverage.py](https://coverage.readthedocs.org/) - Code coverage measurement.
