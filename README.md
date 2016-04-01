@@ -29,6 +29,8 @@ Boilerplate to create a Python script based project. More information at [@ferna
 └── tox.ini
 ```
 
+More datails [here](https://github.com/fernandojunior/python-boilerplate#structure).
+
 ## Keywords
 
 * author_name - Full name of the author.
