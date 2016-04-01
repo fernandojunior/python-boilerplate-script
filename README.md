@@ -1,12 +1,12 @@
 # python-boilerplate-script
 [![building](https://img.shields.io/travis/fernandojunior/python-boilerplate-script.svg)](https://travis-ci.org/fernandojunior/python-boilerplate-script)
 
-Boilerplate to create a Python [script](http://python-packaging.readthedocs.org/en/latest/command-line-scripts.html#command-line-scripts) based project. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
+Boilerplate to create a [command line script](http://python-packaging.readthedocs.org/en/latest/command-line-scripts.html#command-line-scripts) project with a Python module. More information at [@fernandojunior/python-boilerplate](https://github.com/fernandojunior/python-boilerplate).
 
-  ```sh
-  $ script_name Hello World
-  Hello World
-  ```
+```sh
+$ script_name Hello World
+Hello World
+```
 
 ## Features
 
